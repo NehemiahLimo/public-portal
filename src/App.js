@@ -25,7 +25,11 @@ class App extends Component {
 
 			<Cardbody />
 
+<<<<<<< HEAD
 			
+=======
+			<Cardbody />
+>>>>>>> 323cdd7bf228deb0320053e08e03f62ba7acd07d
 			</div>
 
 	);
