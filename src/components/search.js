@@ -41,7 +41,7 @@ class Search extends Component {
           ref={input => this.search = input}
           onChange={this.handleInputChange}
         />
-        <Suggestions results={this.state.results} />
+
       </form>
     )
   }
